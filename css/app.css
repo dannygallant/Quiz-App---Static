@@ -73,9 +73,8 @@ ul.center {
 }
 
 
-.footer {
-	background-color: #567;
-	height: 50px;
+.footer p {
+	font-size: 12px;
 }
 
 /*  ================  Will most likely delete everythin below and use Foundation CSS  ==============
